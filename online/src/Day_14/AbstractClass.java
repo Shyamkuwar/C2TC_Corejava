@@ -1,4 +1,4 @@
-package online;
+package Day_14;
 abstract class GraphicObject
 {
 	int x,y;
