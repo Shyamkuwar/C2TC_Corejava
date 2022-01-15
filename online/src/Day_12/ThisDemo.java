@@ -1,4 +1,4 @@
-package online;
+package Day_12;
 
 class Animal
 {
